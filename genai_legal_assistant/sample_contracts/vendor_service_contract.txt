@@ -1,0 +1,79 @@
+VENDOR SERVICE AGREEMENT
+
+This Service Agreement ("Agreement") is made and entered into on February 6, 2026, between TradeFlow Solutions Pvt Ltd, a company incorporated in Delhi with registered office at New Delhi ("Client"), and Global IT Services Inc., a company registered in Karnataka with registered office at Pune ("Vendor").
+
+RECITALS
+
+WHEREAS, the Client requires software development and IT consulting services;
+
+WHEREAS, the Vendor represents that it is capable of providing such services;
+
+NOW, THEREFORE, the parties hereto agree as follows:
+
+1. SERVICES
+The Vendor shall provide the following services to the Client:
+a) Custom software development for e-commerce platform
+b) UI/UX design and implementation
+c) Database design and optimization
+d) Quality assurance and testing
+e) Deployment and post-launch support
+
+2. PAYMENT TERMS
+The Client shall pay the Vendor a total amount of Rs. 25,00,000 (Rupees Twenty-Five Lakh) for the services, payable as follows:
+- 40% (Rs. 10,00,000) upon signing of this Agreement
+- 30% (Rs. 7,50,000) upon completion of design phase
+- 30% (Rs. 7,50,000) upon project delivery and acceptance
+
+Payment shall be made within 15 days of invoice submission via bank transfer.
+
+3. TIMELINE AND DELIVERABLES
+The project shall commence on March 1, 2026, and shall be completed by October 31, 2026. Detailed deliverables and milestones are attached in Exhibit A. The Vendor warrants that all deliverables shall meet industry standards and Client specifications.
+
+4. PENALTIES FOR DELAY
+In the event of delay in project delivery, the Vendor shall pay liquidated damages to the Client at the rate of Rs. 50,000 per week of delay, up to a maximum of 20% of the total contract value. After 8 weeks of delay, the Client shall have the right to terminate this Agreement and recover all payments made.
+
+5. INDEMNIFICATION CLAUSE
+The Vendor shall indemnify, defend, and hold harmless the Client from any and all claims, liabilities, damages, losses, and expenses (including reasonable attorneys' fees) arising from:
+a) Any breach of this Agreement by the Vendor
+b) Infringement of intellectual property rights
+c) Negligent or willful conduct of the Vendor or its employees
+d) Violation of applicable laws or regulations
+
+6. UNILATERAL TERMINATION
+The Client may terminate this Agreement at any time without cause and without providing notice to the Vendor. Upon such termination, the Vendor shall transfer all work-in-progress and intellectual property to the Client, and the Client shall pay only for work completed to date.
+
+7. AUTOMATIC RENEWAL
+This Agreement shall automatically renew for successive periods of 12 months following the initial term unless either party provides written notice of non-renewal at least 60 days prior to the expiration date. All terms and conditions shall remain the same unless modified in writing by mutual consent.
+
+8. CONFIDENTIALITY AND IP OWNERSHIP
+All information, code, designs, and documentation created by the Vendor shall be deemed proprietary to the Client. The Vendor assigns all intellectual property rights to the Client. The Vendor agrees not to use any Client information for competing purposes or disclose it to third parties.
+
+9. LIMITATION OF LIABILITY
+NOTWITHSTANDING ANYTHING TO THE CONTRARY, IN NO EVENT SHALL EITHER PARTY BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING LOSS OF PROFITS OR REVENUE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE TOTAL LIABILITY OF EITHER PARTY SHALL NOT EXCEED THE FEES PAID IN THE PRECEDING 12 MONTHS.
+
+10. DISPUTE RESOLUTION
+All disputes under this Agreement shall be subject to binding arbitration under the Arbitration and Conciliation Act, 1996. The arbitration shall be held in New Delhi, conducted by a single arbitrator chosen mutually by the parties. The arbitrator's award shall be final and binding. The cost of arbitration shall be borne by the losing party.
+
+11. JURISDICTION AND GOVERNING LAW
+This Agreement shall be governed by Indian laws, specifically the Indian Contract Act, 1872. The jurisdiction shall be exclusive to the courts in New Delhi.
+
+12. AMENDMENTS AND MODIFICATIONS
+No modification or amendment to this Agreement shall be valid unless made in writing and signed by authorized representatives of both parties. Any oral agreements or understandings are null and void.
+
+SIGNATURE BLOCK
+
+For TradeFlow Solutions Pvt Ltd:
+
+_________________________
+Authorized Signatory
+Name: Priya Sharma
+Title: Managing Director
+Date: February 6, 2026
+
+For Global IT Services Inc.:
+
+_________________________
+Authorized Signatory
+Name: Rajiv Patel
+Title: CEO
+Date: February 6, 2026

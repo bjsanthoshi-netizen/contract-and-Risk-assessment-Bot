@@ -1,0 +1,72 @@
+EMPLOYMENT AGREEMENT
+
+THIS EMPLOYMENT AGREEMENT ("Agreement") is entered into as of February 6, 2026, between TechCorp India Private Limited, a company registered under the Companies Act, 2013, with registered office at Bangalore, Karnataka ("Employer"), and John Michael Smith, residing at Mumbai, Maharashtra ("Employee").
+
+WHEREAS, the Employer desires to employ the Employee, and the Employee desires to be employed by the Employer, on the terms and conditions hereinafter mentioned;
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements contained herein, the parties agree as follows:
+
+1. ENGAGEMENT AND POSITION
+The Employer hereby engages the Employee as Senior Software Engineer, reporting to the Chief Technology Officer. The Employee shall be responsible for developing and maintaining software applications as per the requirements of the Employer.
+
+2. TERM OF EMPLOYMENT
+This employment shall commence on March 1, 2026, and shall continue for a period of three (3) years from the date of commencement, unless terminated earlier in accordance with the provisions of this Agreement. The employment shall automatically renew for successive periods of one (1) year unless either party provides written notice of non-renewal at least 90 days prior to the expiration of the current term.
+
+3. COMPENSATION AND BENEFITS
+The Employer shall pay to the Employee a monthly salary of Rs. 75,000 (Rupees Seventy-Five Thousand only), payable on the last working day of each month. The Employee shall also be entitled to:
+a) Health Insurance coverage up to Rs. 5,00,000
+b) Annual Performance Bonus up to 3 months' salary
+c) 20 days paid leave per annum
+d) Provident Fund contributions as per statutory requirements
+
+4. DUTIES AND OBLIGATIONS
+The Employee shall:
+a) Perform all duties assigned by the Employer with diligence and care
+b) Maintain strict confidentiality of all proprietary information, trade secrets, and client data
+c) Work a minimum of 45 hours per week
+d) Be available for overtime as and when required without additional compensation
+e) Comply with all company policies and procedures
+
+5. INTELLECTUAL PROPERTY
+All work product, inventions, discoveries, and intellectual property created by the Employee during employment, whether or not created during working hours or using company resources, shall be the exclusive property of the Employer. The Employee hereby assigns all right, title, and interest in such intellectual property to the Employer without any additional compensation.
+
+6. NON-COMPETE CLAUSE
+During employment and for a period of TWO (2) YEARS after termination, the Employee shall not, directly or indirectly:
+a) Compete with the business of the Employer
+b) Solicit or work for any competitor as defined by the Employer
+c) Solicit clients or employees of the Employer
+d) Disclose confidential information to any third party
+Violation of this clause will result in liquidated damages of Rs. 10,00,000 (Rupees Ten Lakh) and the Employer may seek injunctive relief without prejudice to other remedies.
+
+7. TERMINATION
+The Employer may terminate this employment at any time without cause, without notice, and without severance pay. However, the Employee may terminate employment only with 30 days' written notice. Upon termination, the Employee shall immediately return all company property and sign a non-disclosure agreement.
+
+8. INDEMNIFICATION
+The Employee shall indemnify and hold harmless the Employer from all liabilities, claims, damages, and expenses (including legal fees) arising from or related to the Employee's conduct, negligence, breach of this Agreement, or violation of applicable laws during employment.
+
+9. DISPUTE RESOLUTION
+All disputes arising out of this Agreement shall be referred to binding arbitration under the Indian Arbitration and Conciliation Act, 1996. The seat of arbitration shall be Bangalore, and the arbitration shall be conducted in English. The arbitrator's decision shall be final and binding, and the losing party shall bear all arbitration costs and legal fees.
+
+10. GOVERNING LAW AND JURISDICTION
+This Agreement shall be governed by and construed in accordance with the laws of India, specifically the Indian Contract Act, 1872, and the Labour Laws of Karnataka. The courts of Bangalore shall have exclusive jurisdiction over any disputes.
+
+11. CONFIDENTIALITY
+The Employee acknowledges that during employment, they will have access to confidential information including trade secrets, client lists, software code, business strategies, and financial information. The Employee agrees to maintain strict confidentiality of all such information and shall not disclose it to any third party without written consent from the Employer.
+
+12. AMENDMENT
+This Agreement may be amended or modified only by written instrument signed by both the Employer and the Employee. Any oral modifications shall be void and unenforceable.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+For and on behalf of TechCorp India Private Limited:
+
+_________________________
+Signature of Authorized Signatory
+Name: Rajesh Kumar
+Designation: CEO
+Date: February 6, 2026
+
+_________________________
+Employee Signature
+Name: John Michael Smith
+Date: February 6, 2026
