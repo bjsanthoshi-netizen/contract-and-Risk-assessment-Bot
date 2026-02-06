@@ -1,4 +1,4 @@
-# How to Run GenAI Legal Assistant
+# GenAI Legal Assistant
 
 This document provides step-by-step instructions to set up and run the GenAI Legal Assistant project.
 
